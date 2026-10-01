@@ -26,5 +26,4 @@ Currently dividing my time between hands-on hardware/network diagnostics, prepar
 
 ### 📫 Connect With Me
 
-- **Email:** Zachary.Tech@protonmail.com
 - **LinkedIn:** [www.linkedin.com/in/zachtowne]
